@@ -1,0 +1,59 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.nadpis{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 34px;
+    color: #c8d9ed;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.banner{
+    background: #3874b4;
+    width: 100%;
+    padding: 8%;
+    height: 60px;
+    left: 0;
+    left: 0;
+    width: 84%;
+}
+
+.tabulka{ 
+    border: black;
+    border-radius: 10px;
+    color: rgb(4, 58, 134);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px; 
+}
+
+.tabulka td, .tabulka th {
+    border: 6px solid rgb(103, 132, 173);
+    padding: 8px;
+}
+
+.uvod{
+    margin-top: 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.components_photo{
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+    height: auto; 
+}
+
+.video{
+    margin-left: 270px;
+    margin-bottom: 20px;
+}
